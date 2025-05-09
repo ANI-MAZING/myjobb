@@ -1,87 +1,53 @@
-<img src="https://github.com/user-attachments/assets/9594d359-0988-4fec-b588-0dcee51168e3" alt="Vetra Logo" width="50" height="50">
+# myjobb AI
 
-# 🚀 Vetra - AI Marketing Automation Platform
+myjobb AI is an innovative platform that empowers job seekers by enabling them to create highly personalized, job-specific resumes in minutes. Leveraging AI-powered technology, users can craft resumes that stand out, tailored to the exact requirements of their target jobs.
 
-<img src="https://github.com/user-attachments/assets/df541304-ea1c-4ebe-b6fd-2e093680314f" alt="Vetra Thumbnail">
+## Project Overview
 
-## 🌟 Introduction
-Vetra is an AI-powered marketing automation platform that transforms your marketing workflow in seconds. Built with modern technologies, it offers a sleek interface for managing marketing campaigns, content generation, and performance analytics.
+This repository contains the source code and design assets for the **myjobb AI** platform. The project also includes a redesigned landing page aimed at enhancing user experience and visual appeal, reflecting modern design principles.
 
-## 🔗 Live Preview
+### Key Features:
 
-Check out the live demo of caps.ai here: [Live Preview](https://vetra-app.vercel.app/)
-
-## 🎥 Watch the Preview Video on YouTube
-
-Take a look at YouTube video by watching the demo: [Watch the Video](https://youtu.be/dfQ_WwWV6g8) 
-
-## 💻 Tech Stack
-
-- **Next.js 15** – React framework for production
-- **TailwindCSS** – Utility-first CSS framework
-- **Shadcn UI** – Reusable component system
-- **Framer Motion** – Smooth animations
-- **TypeScript** – Type-safe code
-- **Number Flow** – Smooth number animations
-
-## 🛠️ Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Shreyas-29/vetra.git
-    ```
-
-2. Install dependencies:
-    ```bash
-    pnpm install
-    # or
-    yarn install
-    ```
-
-3. Run the development server:
-    ```bash
-    pnpm run dev
-    # or
-    yarn dev
-    ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
-
-## 🔧 Environment Variables
-
-Create a `.env` file in the root directory:
-
-```env
-NEXT_PUBLIC_APP_URL=your_app_url
-```
-
-## 🚀 Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new) from the creators of Next.js.
-
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-## ☕ Buy Me a Coffee
-If you enjoy using this project, consider supporting my work!  
-[Buy Me a Coffee ☕](https://buymeacoffee.com/shreyas29)
+* **AI-Powered Resume Creation:** Instantly generate tailored resumes optimized for specific job applications.
+* **Multi-Language Support:** Create resumes in 60+ languages, expanding opportunities across global markets.
+* **Customizable Templates:** Choose from a wide range of templates that suit different industries and roles.
+* **Seamless User Experience:** Redesigned landing page to improve navigation and visual engagement.
 
 ---
 
-Built with ❤️ by [Shreyas Sihasane](https://shreyas-sihasane.vercel.app)
+## Redesigned Landing Page
+
+The existing landing page of myjobb AI has been reimagined with a modern, sleek design that emphasizes clarity and ease of navigation. This redesign focuses on:
+
+* Better visual hierarchy
+* Clearer call-to-action buttons
+* Streamlined language selection for multilingual resume generation
+* Enhanced readability and responsive layout
+
+
+## Technologies Used
+
+* **React** - Frontend UI
+* **Next.js** - Server-side rendering and routing
+* **Tailwind CSS** - Styling
+* **OpenAI API** - Resume generation intelligence
+
+---
+
+## Contributing
+
+Contributions are welcome! Please submit a pull request with a clear description of your changes. For major changes, open an issue first to discuss what you would like to change.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+## Acknowledgments
+
+Special thanks to the development and design team for their contributions and to the community for constant support and feedback.
+
+Feel free to reach out for any queries or suggestions!
